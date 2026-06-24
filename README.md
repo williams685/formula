@@ -2,7 +2,7 @@
 
 ## Reference
 
-The Reference Code: https://github.com/tsoding/formula
+The Reference Code: https://github.com/tsoding/formula<br/>
 The Reference Youtube Video: https://www.youtube.com/watch?v=qjWkNZ0SXfo
 
 ## Quick Start
